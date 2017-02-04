@@ -1,0 +1,4 @@
+= Dies ist der Titel
+:published_at: 2017-02-04
+
+Dies ist ein neuer Post - wie wird der gespeichert?

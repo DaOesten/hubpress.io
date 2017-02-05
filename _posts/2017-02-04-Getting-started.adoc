@@ -1,4 +1,11 @@
 = Getting started
 :published_at: 2017-02-04
 
-Dies ist ein neuer Post - wie wird der gespeichert?
+2. Install the AVD and HAXM
+
+Choose Custom installation when running Android Studio for the first time. Make sure the boxes next to all of the following are checked:
+
+    Android SDK ok
+    Android SDK Platform ok
+    Performance (Intel ® HAXM) already installed
+    Android Virtual Device ok custom

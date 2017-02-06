@@ -11,3 +11,13 @@ Choose Custom installation when running Android Studio for the first time. Make 
     Android Virtual Device ok custom
 
 4. Set up the ANDROID_HOME environment variable ok
+
+Android Studio macht mich darauf aufmerksam, dass HAXAM nicht installiert ist - ich installiere über Android Studio HAXAM
+
+Alles erledigt, will react-native testen => erhalte Fehlermeldung: Kein JAVA_HOME path, kein Java...
+Ich installiere JRE
+bei react-native run-android krieg ich ständig Fehlermeldungen
+processdebugresources failed => Ich installiere Android SDK Build-Tools 22.0.1 ... 
+compiledebugjavawithjavac failed => Ich installiere JDK
+
+ENDLICH begrüßt ich der "Welcome to React Native!" Android Emulator vom Android Studio - Yeah!

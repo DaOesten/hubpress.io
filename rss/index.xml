@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learning React Native]]></title><description><![CDATA[Learning React Native]]></description><link>https://DaOesten.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 05 Feb 2017 20:44:42 GMT</lastBuildDate><atom:link href="https://DaOesten.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Getting started]]></title><description><![CDATA[<div class="olist arabic">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learning React Native]]></title><description><![CDATA[Learning React Native]]></description><link>https://DaOesten.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Feb 2017 20:05:44 GMT</lastBuildDate><atom:link href="https://DaOesten.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Getting started]]></title><description><![CDATA[<div class="olist arabic">
 <ol class="arabic">
 <li>
 <p>Install the AVD and HAXM</p>
@@ -22,4 +22,17 @@ Android Virtual Device ok custom</pre>
 <p>Set up the ANDROID_HOME environment variable ok</p>
 </li>
 </ol>
+</div>
+<div class="paragraph">
+<p>Android Studio macht mich darauf aufmerksam, dass HAXAM nicht installiert ist - ich installiere über Android Studio HAXAM</p>
+</div>
+<div class="paragraph">
+<p>Alles erledigt, will react-native testen &#8658; erhalte Fehlermeldung: Kein JAVA_HOME path, kein Java&#8230;&#8203;
+Ich installiere JRE
+bei react-native run-android krieg ich ständig Fehlermeldungen
+processdebugresources failed &#8658; Ich installiere Android SDK Build-Tools 22.0.1 &#8230;&#8203;
+compiledebugjavawithjavac failed &#8658; Ich installiere JDK</p>
+</div>
+<div class="paragraph">
+<p>ENDLICH begrüßt ich der "Welcome to React Native!" Android Emulator vom Android Studio - Yeah!</p>
 </div>]]></description><link>https://DaOesten.github.io/hubpress.io/2017/02/04/Getting-started.html</link><guid isPermaLink="true">https://DaOesten.github.io/hubpress.io/2017/02/04/Getting-started.html</guid><pubDate>Sat, 04 Feb 2017 00:00:00 GMT</pubDate></item></channel></rss>
